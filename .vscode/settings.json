@@ -28,4 +28,5 @@
     "pylint.path": [
         "-"
     ],
+    "amazonQ.telemetry": false,
 }
